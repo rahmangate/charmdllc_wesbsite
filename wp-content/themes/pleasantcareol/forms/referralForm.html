@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>Send Your Referrals Form</title>
+
+		<link rel="stylesheet" href="style.min.css?ver23asas">
+		<link rel="stylesheet" href="css\font-awesome.min.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+		<link rel="stylesheet" href="css\media.min.css?ver24as">
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+	</head>
+<body>
+	<div class="clearfix">
+		<div class="wrapper">
+			<div id="contact_us_form_1" class="template_form">
+				<div class="form_frame_b">
+					<div class="form_content">
+						
+						<form id="submitform" name="contact" method="post" enctype="multipart/form-data" action="">
+								<span class="required-info">* Required Information</span>
+							<div class="form_box">
+								<div class="form_box_col2">
+									<div class="group">
+										<div class="form_label"><label class="text_uppercase"><strong>Name of Referrer <span class="required_filed">*</span></strong></label></div><div class="field_holder animated_box"><input type="text" name="Name_of_Referrer" class="form_field" value="" id="Name_of_Referrer" placeholder="Enter name of referrer here"><span class="animated_class"></span></div>									</div>
+									<div class="group">
+										<div class="form_label"><label class="text_uppercase"><strong>Email Address <span class="required_filed">*</span></strong></label></div><div class="field_holder animated_box"><input type="text" name="Email_Address" class="form_field" value="" id="Email_Address" placeholder="Enter email address here"><span class="animated_class"></span></div>									</div>
+								</div>
+								<hr>
+							</div>
+
+
+							<div class="cloneField">
+								<div class="form_box">
+									<div class="form_box_col1 referral_name">
+										<div class="group">
+											<div class="form_label"><label class="text_uppercase"><strong>Name <span class="required_filed"></span></strong></label></div><div class="field_holder animated_box"><input type="text" name="Name" class="form_field" value="" id="Name" placeholder="Enter name here"><span class="animated_class"></span></div>										</div>
+									</div>
+								</div>
+								<div class="form_box">
+									<div class="form_box_col2">
+										<div class="group">
+											<div class="referral_email">
+											<div class="form_label"><label class="text_uppercase"><strong>Email Address <span class="required_filed"></span></strong></label></div><div class="field_holder animated_box"><input type="text" name="Email_Address_" class="form_field" value="" id="Email_Address_" placeholder="Enter email address here"><span class="animated_class"></span></div>											</div>
+										</div>
+										<div class="group">
+											<div class="referral_phone">
+											<div class="form_label"><label class="text_uppercase"><strong>Phone <span class="required_filed"></span></strong></label></div><div class="field_holder animated_box"><input type="text" name="Phone" class="form_field Phone" value="" id="Phone" placeholder="Enter phone here"><span class="animated_class"></span></div>											</div>
+										</div>
+
+
+									</div>
+								</div>
+
+							</div>
+
+							<div class="addreferral"></div>
+
+							<div class="addMore"><i class="fas fa-plus-circle"></i> Add more referrals...</div>
+
+
+							<div class="form_box5 secode_box">
+								<div class="group">
+									<div class="inner_form_box1 recapBtn">
+										<div class="g-recaptcha" data-sitekey="6Lebu68ZAAAAAN0M94kjX4tItxjS1tmB4tagNFpY"></div>
+										<div class="btn-submit"><input type="submit" class="form_button" value="SUBMIT"></div>
+									</div>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="js\jquery-1.9.0.min.js"></script>
+	<script type="text/javascript" src="js\jquery.validate.min.js"></script>
+	<script src="js\plugins.min.js"></script>
+
+
+	<script type="text/javascript">
+$(document).ready(function() {
+	// validate signup form on keyup and submit
+	$("#submitform").validate({
+		rules: {
+			Name_of_Referrer: "required",
+			Email_Address: {
+				required: true,
+				email: true
+			},
+			secode: "required"
+		},
+		messages: {
+			Name_of_Referrer: "",
+			Email_Address: "",
+			secode: ""
+		}
+	});
+
+	$("#submitform").submit(function(){
+		if($(this).valid()){
+			$('.load_holder').css('display','block');
+			self.parent.$('html, body').animate(
+				{ scrollTop: self.parent.$('#myframe').offset().top },
+				500
+			);
+		}
+		if(grecaptcha.getResponse() == "") {
+			var $recaptcha = document.querySelector('#g-recaptcha-response');
+				$recaptcha.setAttribute("required", "required");
+				$('.g-recaptcha').addClass('errors').attr('id','recaptcha');
+		  }
+	});
+
+	$( "input" ).keypress(function( event ) {
+		if(grecaptcha.getResponse() == "") {
+			var $recaptcha = document.querySelector('#g-recaptcha-response');
+			$recaptcha.setAttribute("required", "required");
+		  }
+	});
+
+	$(".Phone").keypress(function(e) {
+            var verified = (e.which == 8 || e.which == undefined || e.which == 0) ? null : String.fromCharCode(e.which).match(/[^0-9 -]/);
+            if (verified) {e.preventDefault();}
+    });
+
+
+
+});
+
+function removeHTML(id){
+	$('#mainCloneCount_'+id).remove();
+}
+
+</script>
+
+
+</body>
+</html>

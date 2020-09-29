@@ -1,0 +1,864 @@
+Uri: https://www.pleasantcarebhc.com/
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\index.htm
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/favicon.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:15
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:15
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/hamburgers.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\hamburgers.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/rslides.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\rslides.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/animations.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\animations.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/skitter.styles.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\skitter.styles.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/feed
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\feed.rss
+Content Type: application/rss+xml
+
+Uri: https://www.pleasantcarebhc.com/comments/feed
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\comments\feed.rss
+Content Type: application/rss+xml
+
+Uri: https://www.pleasantcarebhc.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.4
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\index.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/xmlrpc.php?rsd
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-includes/wlwmanifest.xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2F
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2F&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/07/favicon-150x150.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\07\favicon-150x150.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/07/favicon.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\07\favicon.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-about-us
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-about-us.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-services
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-patients-forms
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-patients-forms.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-pay-here
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-pay-here.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-resources
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-resources.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-faq
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-faq.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-schedule-an-appointment
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-schedule-an-appointment.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-contact-us
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-contact-us.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-careers
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-careers.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-meet-our-professionals
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-meet-our-professionals.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-send-your-referrals
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-send-your-referrals.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-send-us-your-feedback
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-send-us-your-feedback.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/main-logo.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\main-logo.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/icons/facebook.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\icons\facebook.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/icons/twitter.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\icons\twitter.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/slider/1.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/slider/2.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/slider/3.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\slider\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/mid-box1.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\mid-box1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/mid-box2.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\mid-box2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/mid-box3.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\mid-box3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/mid-box4.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\mid-box4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/mid-box5.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\mid-box5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/mid-box6.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\mid-box6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/btm1-img.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\btm1-img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/btm2-box1.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\btm2-box1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/btm2-box2.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\btm2-box2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/btm2-box3.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\btm2-box3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/footer-logo.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\footer-logo.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/js/modernizr-custom-v2.7.1.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\js\modernizr-custom-v2.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/js/jquery-2.1.1.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\js\jquery-2.1.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/js/calcheight.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\js\calcheight.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/js/jquery.easing.1.3.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/js/jquery.skitter.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\js\jquery.skitter.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/js/css3-animate-it.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\js\css3-animate-it.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/js/responsiveslides.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\js\responsiveslides.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/js/plugins.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\js\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/icons/phone.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\icons\phone.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/icons/location.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\icons\location.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/sprite-minimalist.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\sprite-minimalist.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/fonts/fontAwesome/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\fonts\fontAwesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/fonts/fontAwesome/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\fonts\fontAwesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/fonts/fontAwesome/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\fonts\fontAwesome\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/fonts/fontAwesome/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\fonts\fontAwesome\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/fonts/fontAwesome/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\fonts\fontAwesome\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/fonts/fontAwesome/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\fonts\fontAwesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/ajax-loader.gif
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/sprite-default.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\sprite-default.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/sprite-round.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\sprite-round.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/sprite-clean.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\sprite-clean.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/sprite-square.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\sprite-square.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:35
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-1.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:35
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-1.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:37
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-2.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:37
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-2.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-about-us
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-about-us&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-454811005-1.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-454811005-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/thumbnails/Olayinka.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\thumbnails\Olayinka.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/thumbnails/thumb-126648725.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\thumbnails\thumb-126648725.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:38
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-3.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:38
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-3.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/slider/thumb-1144941692.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\slider\thumb-1144941692.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/thumbnails/thumb_589610858.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\thumbnails\thumb_589610858.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/check.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\check.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:40
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-4.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:40
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-4.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-patients-forms
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-patients-forms&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Patient_Information.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Patient_Information.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Office_Policies.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Office_Policies.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Consent_to_Treatment.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Consent_to_Treatment.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Coordination_of_Care_With_Primary_Care_Provider.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Coordination_of_Care_With_Primary_Care_Provider.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Notice_Concerning_Complaints.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Notice_Concerning_Complaints.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Health_Information_Practices.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Health_Information_Practices.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Authorization-for-Disclosure-of-Protected-Health-Information.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Authorization-for-Disclosure-of-Protected-Health-Information.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/CNS_LS_for_PBA.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\CNS_LS_for_PBA.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Simple_Screening_Instrument_for_Alcohol_and_Other_Drugs.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Simple_Screening_Instrument_for_Alcohol_and_Other_Drugs.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Beck_Anxiety_Self_Rating_Scale.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Beck_Anxiety_Self_Rating_Scale.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Beck_Depression_Invetory.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Beck_Depression_Invetory.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Self_Report_Scale_Symptom_Checklist.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Self_Report_Scale_Symptom_Checklist.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/Initial_Psychiatric_Assessment.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\Initial_Psychiatric_Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/NICHQ_Vanderbilt_Assessment_Scales.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\NICHQ_Vanderbilt_Assessment_Scales.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/PHQ_9.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\PHQ_9.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/pdf/policy.pdf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\pdf\policy.pdf
+Content Type: application/pdf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/form_img.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\form_img.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/download.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\download.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:41
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-5.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:41
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-5.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-pay-here
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-pay-here&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/paypal_payment.php
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\paypal_payment.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:42
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-6.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:42
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-6.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-resources
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-resources&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-128900936.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-128900936.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:44
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-7.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:44
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-7.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-faq
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-faq&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-34593212.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-34593212.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:45
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-8.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:45
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-8.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-schedule-an-appointment
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-schedule-an-appointment&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:46
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-9.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:46
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-9.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-contact-us
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-contact-us&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-704294779.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-704294779.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/contactForm2-Fullname.php
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\contactForm2-Fullname.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:47
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-10.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:47
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-10.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-careers
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-careers&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/07/thumb-141343036.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\07\thumb-141343036.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/ApplicationForm.php
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\ApplicationForm.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-services/anxiety-disorders
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\anxiety-disorders.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:49
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-11.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:49
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-11.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fanxiety-disorders
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fanxiety-disorders&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/anxiety-ban.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\anxiety-ban.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-services/depression
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\depression.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:51
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-12.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:51
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-12.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fdepression
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fdepression&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-50492125.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-50492125.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-services/psychotic-disorder
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\psychotic-disorder.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:52
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-13.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:52
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-13.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fpsychotic-disorder
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fpsychotic-disorder&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-48427482.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-48427482.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-services/mood-disorders
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\mood-disorders.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:54
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-14.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:54
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-14.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fmood-disorders
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fmood-disorders&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/mood-ban.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\mood-ban.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-services/ptsd
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\ptsd.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:56
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-15.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:56
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-15.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fptsd
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-our-services%2Fptsd&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-37373260.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-37373260.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:57
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-16.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:57
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-16.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-meet-our-professionals
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-meet-our-professionals&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-454811005.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-454811005.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/thumbnails/thumb-32588425.jpg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\thumbnails\thumb-32588425.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:58
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-17.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:58
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-17.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-send-your-referrals
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-send-your-referrals&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/referralForm.php
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\referralForm.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:59
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-18.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:59
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-18.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-send-us-your-feedback
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pleasantcarebhc.com%2Fpsychiatric-mental-health-services-send-us-your-feedback&format=xml
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/clientSatisfactionForm.php
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\clientSatisfactionForm.html
+Content Type: text/html
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/css/fa-solid.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\css\fa-solid.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/css/fontawesome.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/css/square.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\css\square.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/css/style.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/img/square.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\img\square.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/js/jquery-3.3.1.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/js/popper.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/style.min.css?ver23asas
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\style.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/css/media.min.css?ver24as
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\css\media.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/js/jquery-1.9.0.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\js\jquery-1.9.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/js/jquery.validate.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/js/plugins.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\js\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/css/dd.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\css\dd.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/css/datepicker.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\css\datepicker.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/css/jquery.datepick.min.css
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\css\jquery.datepick.min.css
+Content Type: text/css
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/js/jquery.datepick.min.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\js\jquery.datepick.min.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/js/datepicker.js
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\js\datepicker.js
+Content Type: application/javascript
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/webfonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/webfonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/webfonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/webfonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/webfonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payment-assets/webfonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\payment-assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/images/info-icon.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\images\info-icon.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/images/arrow.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\images\arrow.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/images/arrow-h.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\images\arrow-h.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/images/calendar.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\images\calendar.png
+Content Type: image/png
+
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/css/arrow.png
+File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\css\arrow.png
+Content Type: image/png
+
