@@ -6,11 +6,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/fav
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\favicon.png
 Content Type: image/png
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:15
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:11:52
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:15
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:11:52
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min.css
 Content Type: text/css
 
@@ -278,19 +278,19 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/spr
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\sprite-square.png
 Content Type: image/png
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:35
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:11
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-1.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:35
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:11
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-1.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:37
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:12
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-2.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:37
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:12
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-2.css
 Content Type: text/css
 
@@ -314,11 +314,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/thu
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\thumbnails\thumb-126648725.jpg
 Content Type: image/jpeg
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:38
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:13
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-3.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:38
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:13
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-3.css
 Content Type: text/css
 
@@ -342,11 +342,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/che
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\check.png
 Content Type: image/png
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:40
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:15
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-4.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:40
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:15
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-4.css
 Content Type: text/css
 
@@ -430,11 +430,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/dow
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\download.png
 Content Type: image/png
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:41
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:16
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-5.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:41
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:16
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-5.css
 Content Type: text/css
 
@@ -450,11 +450,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/payp
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\paypal_payment.html
 Content Type: text/html
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:42
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:17
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-6.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:42
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:17
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-6.css
 Content Type: text/css
 
@@ -470,11 +470,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-128900936.
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-128900936.jpg
 Content Type: image/jpeg
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:44
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:28
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-7.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:44
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:28
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-7.css
 Content Type: text/css
 
@@ -490,11 +490,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-34593212.j
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-34593212.jpg
 Content Type: image/jpeg
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:45
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:29
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-8.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:45
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:29
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-8.css
 Content Type: text/css
 
@@ -506,11 +506,11 @@ Uri: https://www.pleasantcarebhc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fww
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-json\oembed\1.0\embed-7.xml
 Content Type: text/xml
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:46
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:30
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-9.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:46
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:30
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-9.css
 Content Type: text/css
 
@@ -530,11 +530,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/cont
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\contactForm2-Fullname.html
 Content Type: text/html
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:47
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:32
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-10.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:47
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:32
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-10.css
 Content Type: text/css
 
@@ -558,11 +558,11 @@ Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-serv
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\anxiety-disorders.html
 Content Type: text/html
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:49
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:33
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-11.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:49
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:33
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-11.css
 Content Type: text/css
 
@@ -582,11 +582,11 @@ Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-serv
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\depression.html
 Content Type: text/html
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:51
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:35
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-12.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:51
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:35
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-12.css
 Content Type: text/css
 
@@ -606,11 +606,11 @@ Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-serv
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\psychotic-disorder.html
 Content Type: text/html
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:52
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:37
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-13.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:52
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:37
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-13.css
 Content Type: text/css
 
@@ -630,11 +630,11 @@ Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-serv
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\mood-disorders.html
 Content Type: text/html
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:54
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:38
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-14.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:54
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:38
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-14.css
 Content Type: text/css
 
@@ -654,11 +654,11 @@ Uri: https://www.pleasantcarebhc.com/psychiatric-mental-health-services-our-serv
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\psychiatric-mental-health-services-our-services\ptsd.html
 Content Type: text/html
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:56
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:40
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-15.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:56
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:40
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-15.css
 Content Type: text/css
 
@@ -674,11 +674,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/uploads/2020/06/thumb-37373260.j
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\uploads\2020\06\thumb-37373260.jpg
 Content Type: image/jpeg
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:57
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:42
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-16.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:57
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:42
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-16.css
 Content Type: text/css
 
@@ -698,11 +698,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/images/thu
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\images\thumbnails\thumb-32588425.jpg
 Content Type: image/jpeg
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:58
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:43
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-17.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:58
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:43
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-17.css
 Content Type: text/css
 
@@ -718,11 +718,11 @@ Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/forms/refe
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\forms\referralForm.html
 Content Type: text/html
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:09:28:09:42:59
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/style.min.css?2020:10:02:03:12:44
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\style.min-18.css
 Content Type: text/css
 
-Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:09:28:09:42:59
+Uri: https://www.pleasantcarebhc.com/wp-content/themes/pleasantcareol/css/media.min.css?2020:10:02:03:12:44
 File Name: c:\Downloaded Web Sites\pleasantcarebhc.com\wp-content\themes\pleasantcareol\css\media.min-18.css
 Content Type: text/css
 
