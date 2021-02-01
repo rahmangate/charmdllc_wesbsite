@@ -51,7 +51,7 @@
 							<div class="form_box5 secode_box">
 								<div class="group">
 									<div class="inner_form_box1 recapBtn">
-										<div class="g-recaptcha" data-sitekey="6Lebu68ZAAAAAN0M94kjX4tItxjS1tmB4tagNFpY"></div>
+										<div class="g-recaptcha" data-sitekey="6LcrtEAaAAAAAAAeQ7nGZS5e9uAqdImNGgL7u8qq"></div>
 										<div class="btn-submit"><input type="submit" class="form_button" value="SUBMIT"></div>
 									</div>
 								</div>
@@ -91,7 +91,8 @@ $(document).ready(function() {
 	});
 
 
-	$("#submitform").submit(function(){
+	$("#submitform").submit(function(e){
+		e.preventDefault()
 		if($(this).valid()){
 			$('.load_holder').css('display','block');
 			self.parent.$('html, body').animate(
@@ -101,15 +102,15 @@ $(document).ready(function() {
 		}
 		if(grecaptcha.getResponse() == "") {
 			var $recaptcha = document.querySelector('#g-recaptcha-response');
-				$recaptcha.setAttribute("required", "required");
-				$('.g-recaptcha').addClass('errors').attr('id','recaptcha');
+				//$recaptcha.setAttribute("required", "required");
+				//$('.g-recaptcha').addClass('errors').attr('id','recaptcha');
 		  }
 	});
 
 	$( "input" ).keypress(function( event ) {
 		if(grecaptcha.getResponse() == "") {
 			var $recaptcha = document.querySelector('#g-recaptcha-response');
-			$recaptcha.setAttribute("required", "required");
+			//$recaptcha.setAttribute("required", "required");
 		  }
 	});
 
